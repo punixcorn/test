@@ -1,7 +1,4 @@
-asdasdad \
-this is some changes \
-# another change
-new change
-
-1
-1
+line 1 
+change 1 
+line 3 
+change 2 
